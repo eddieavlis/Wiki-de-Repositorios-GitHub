@@ -11,10 +11,18 @@
 ## Justificativa
 
 - **Segurança e Acessibilidade:** Avaliamos que, no contexto atual do projeto, os riscos de segurança e acessibilidade são mitigados por outras práticas e medidas. A desativação é uma solução temporária até que uma abordagem mais apropriada possa ser implementada.
+  
+- **Código Temporário:** A desativação da função `handleKeyDown` é uma solução temporária durante o desenvolvimento. A função será reativada quando a funcionalidade associada for implementada ou ajustada conforme necessário.
+
+## Impacto e Mitigação
+
+- **Impacto:** Embora a desativação das regras possa afetar a segurança e acessibilidade, o impacto é controlado e monitorado. A função `handleKeyDown` será reativada e ajustada conforme necessário para garantir que a funcionalidade esteja implementada corretamente.
+
+- **Mitigação:** Os riscos são monitorados e mitigados por práticas alternativas. Revisões futuras serão realizadas para garantir a conformidade com as melhores práticas e para garantir que a função `handleKeyDown` e outras funcionalidades sejam utilizadas corretamente.
 
 ## Histórico de Alterações
 
-- **[23/08/2024]** - [Desativação de Regras de Linting] - [Antonio Silva]
+- **[Data]** - [Descrição da Alteração] - [Autor]
 
 
 Usar o acima
